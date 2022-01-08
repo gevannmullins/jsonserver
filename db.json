@@ -10,6 +10,11 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
-  }
+    "name": "gevann"
+  },
+  "users": [
+    {"id": 1, "name": "gevann", "surname": "mullins"},
+    {"id": 2, "name": "g1", "surname": "m1"},
+    {"id": 3, "name": "g2", "surname": "m2"},
+  ]
 }
